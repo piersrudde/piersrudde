@@ -1,6 +1,6 @@
 ## Hi! I'm Pierluca 👋
 
-I'm an **Energy Engineer** with expertise in **data analysis, data science, machine learning and visualization**. 
+I'm an **Energy Engineer** and **Data Analyst** with expertise in **data analysis, data science, machine learning and visualization**. 
 
 Here's what I can do:
 - Code well-written models in **Python**.
